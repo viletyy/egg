@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+__debug_bin
+
+logs/*
+vendor/*
+conf/app.conf
+go.sum
+egg
