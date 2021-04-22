@@ -8,3 +8,4 @@ vendor/*
 conf/app.conf
 go.sum
 egg
+lastupdate.tmp
